@@ -1,6 +1,32 @@
-Bimbingan ke-1
+==========Bimbingan ke-1==========
 Mempresentasikan TA
 Mendiskusikan metode yang akan digunakan
 Membuat github
 Upload github log file, TA, Kodingan.
 Kombinasikan waterfaall dengan prototyping
+
+==========Bimbingan ke -2 ==========
+
+Bimbingan Ke-2 Mempresentasikan kemajuan dalam 
+mencari metode model prototyping 
+Mempresentasikan Revisi Bimbingan 1 
+
+Rencana kedepannya :
+ Menyelesaikan metode model prototyping
+
+==========Bimbingan ke 3==========
+apa saja yang udah dilakukan :
+- mengubah bab 1 - 3
+- membuat draft pertanyaan di bab 4
+- membuat definisi definisi di bab 4
+
+rencana bimbingan kali ini:
+- minta approval untuk draft pertanyaan.
+- minta review bab 1-4 
+
+rencana kedepannya:
+- sudah melakukan wawancara
+- buat masalash dengan use case
+- membuat daftar fitur 
+- membuat daftar kebutuhan sistem
+- mendemonstrasikan aplikasi 
